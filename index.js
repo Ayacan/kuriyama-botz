@@ -20,10 +20,10 @@ const { waiting } = require('./lib/waiting')
 const settings = JSON.parse(fs.readFileSync('./settings.json'))
 const welcome = require('./message/group')
 baterai = 'unknown'
-NamaOwner = '©Wann'
+NamaOwner = '©Pril'
 NamaBot = 'Invibotz'
-NomorOwner = '6285640068416'
-target = "6285640068416@s.whatsapp.net"
+NomorOwner = '6283814160711'
+target = "6283814160711@s.whatsapp.net"
 
 spc1 = '         '
 spc2 = '\n                           '
